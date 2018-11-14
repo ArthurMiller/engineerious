@@ -39,7 +39,7 @@ disqus:
 
 # Author information - author info at the bottom of the post
 author_name: "About this blog"
-author_bio: "The authors of this blog are active software engineers from a divers technical background looking to help others increase thier knowledge within specific subjects, assist others in understanding, inspire ideas, and gather feedback from the community."
+author_bio: "The authors of this blog are active software engineers from a diverse technical background looking to help others increase their knowledge within specific subject areas. We are also looking to assist others in understanding potentially complex subject matters, inspiring ideas, and gather feedback from the engineering community."
 author_url:  "http://engineerious.com"
 author_location: "Arizona"
 author_image: /images/authorimage.png
