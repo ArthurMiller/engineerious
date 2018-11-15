@@ -19,6 +19,7 @@
             <button id="menu-toggle" aria-expanded="false">Menu</button>
             <div class="nav-menu">
                 <ul class="menu">
+                    <li><a href="{{ HOME_PATH }}"><img id="gliderLogo" src="images/glider.png"/></a></li>
                 {% for link in site.navigation %}
                   {% assign current = nil %}
                   {% if page.url == link.url %}
