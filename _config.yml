@@ -28,11 +28,11 @@ navigation:
 - text: Home
   url: "https://arthurmiller.github.io/engineerious/"
 - text: About the blog
-  url: "https://arthurmiller.github.io/about/"
+  url: "https://arthurmiller.github.io/engineerious/about/"
 - text: About the contributors
-  url: "https://arthurmiller.github.io/style-guide/"
+  url: "https://arthurmiller.github.io/engineerious/style-guide/"
 - text: Articles
-  url: "https://arthurmiller.github.io/tags/"
+  url: "https://arthurmiller.github.io/engineerious/tags/"
 
 # The shortname for your Disqus site to enable comments.
 disqus:
