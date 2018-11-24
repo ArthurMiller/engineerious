@@ -26,13 +26,13 @@ url: "http://engineerious.com"
 # Site navigation - each item must have a title and a url.
 navigation:
 - text: Home
-  url: /
+  url: "https://arthurmiller.github.io/engineerious/"
 - text: About the blog
-  url: /about/
+  url: "https://arthurmiller.github.io/about/"
 - text: About the contributors
-  url: /style-guide/
+  url: "https://arthurmiller.github.io/style-guide/"
 - text: Articles
-  url: /tags/
+  url: "https://arthurmiller.github.io/tags/"
 
 # The shortname for your Disqus site to enable comments.
 disqus:
