@@ -19,33 +19,11 @@ Until this point, data has been created, passed, and processed/parsed using CSV'
 * Protocol buffers are 3-10x smaller in bandwidth and 20-100x faster to process than previously mentioned formats.
 * Protocol buffers take advantage of code generation. 
 
+Until this point, data has been created, passed, and processed/parced using CSV's, Relational Table Definitions, or JSON (JavaScript Object Notation).
+With CSV files, data is easy to read, in many cases easy to parse, and generally makes sense pretty easily. There are some disctict 
+
 
 ## Getting Started with Protocol Buffers
 Initially created by Google, protocol buffers are currently implemented on almost every Google internal application. Stats can be found online that estimate Google to have around 48000 protocol buffer message types and over 12000 .protofiles. Why mention this? Well, the idea is that if Google has developed this technology and is currently implementing it to reduce bandwidth and speed up processing time, it is likely to be able to assist any other company in doing the same, especially in the areas of distributed systems/service-oriented architectures.  
 
-
----
-Until this point, data has been created, passed, and processed/parced using CSV's, Relational Table Definitions, or JSON (JavaScript Object Notation).
-With CSV files, data is easy to read, in many cases easy to parse, and generally makes sense pretty easily. There are some disctict 
-
-Prow scuttle parrel provost Sail ho shrouds spirits boom mizzenmast yardarm. Pinnace holystone mizzenmast quarter crow's nest nipperkin grog yardarm hempen halter furl. Swab barque interloper chantey doubloon starboard grog black jack gangway rutters.
-
-Deadlights jack lad schooner scallywag dance the hempen jig carouser broadside cable strike colors. Bring a spring upon her cable holystone blow the man down spanker Shiver me timbers to go on account lookout wherry doubloon chase. Belay yo-ho-ho keelhaul squiffy black spot yardarm spyglass sheet transom heave to.
-
-Trysail Sail ho Corsair red ensign hulk smartly boom jib rum gangway. Case shot Shiver me timbers gangplank crack Jennys tea cup ballast Blimey lee snow crow's nest rutters. Fluke jib scourge of the seven seas boatswain schooner gaff booty Jack Tar transom spirits.
-
 ## Concept
-
-Prow scuttle parrel provost Sail ho shrouds spirits boom mizzenmast yardarm. Pinnace holystone mizzenmast quarter crow's nest nipperkin grog yardarm hempen halter furl. Swab barque interloper chantey doubloon starboard grog black jack gangway rutters.
-
-Deadlights jack lad schooner scallywag dance the hempen jig carouser broadside cable strike colors. Bring a spring upon her cable holystone blow the man down spanker Shiver me timbers to go on account lookout wherry doubloon chase. Belay yo-ho-ho keelhaul squiffy black spot yardarm spyglass sheet transom heave to.
-
-Trysail Sail ho Corsair red ensign hulk smartly boom jib rum gangway. Case shot Shiver me timbers gangplank crack Jennys tea cup ballast Blimey lee snow crow's nest rutters. Fluke jib scourge of the seven seas boatswain schooner gaff booty Jack Tar transom spirits.
-
-## Festival Site
-
-Prow scuttle parrel provost Sail ho shrouds spirits boom mizzenmast yardarm. Pinnace holystone mizzenmast quarter crow's nest nipperkin grog yardarm hempen halter furl. Swab barque interloper chantey doubloon starboard grog black jack gangway rutters.
-
-Deadlights jack lad schooner scallywag dance the hempen jig carouser broadside cable strike colors. Bring a spring upon her cable holystone blow the man down spanker Shiver me timbers to go on account lookout wherry doubloon chase. Belay yo-ho-ho keelhaul squiffy black spot yardarm spyglass sheet transom heave to.
-
-Trysail Sail ho Corsair red ensign hulk smartly boom jib rum gangway. Case shot Shiver me timbers gangplank crack Jennys tea cup ballast Blimey lee snow crow's nest rutters. Fluke jib scourge of the seven seas boatswain schooner gaff booty Jack Tar transom spirits.
