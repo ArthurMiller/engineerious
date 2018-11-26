@@ -6,7 +6,7 @@ banner_image: Desk.jpg
 tags: [Java, Protocol Buffers, Arthur Miller]
 ---
 
-# Intro to Protocol Buffers 1 
+# Protocol Buffers 1: Intro 
 While protocol buffers have some inherent disadvantages such as a possibility of not being supported by some languages and the data not being directly accessible (as the data gets serialized), the overwhelming advantages of protocol buffers should become quite apparent in this post as the case gets built for its use as we explore why and how to leverage this pretty awesome technology.
 <!--more-->
 ## A Really Quick Background on Data
